@@ -9,7 +9,7 @@
 - [Tutorial 3 - Xilinx ZCU104 board 세팅 및 Vitis AI DPU API 이용한 MNIST 실습](tutorials/실험3%20xilinx%20board%20setting%20and%20MNIST%20실습.pdf)
   - [code](Board_test.ipynb)
 - [Tutorial 4 - HLS(High Level Synthesis) 실습](tutorials/실험4%20HLS(High%20Level%20Synthesis)%20실습.pdf)
-  - [code]()
+  - [code](HLS(High%20Level%20Synthesis)%20%EC%8B%A4%EC%8A%B5%20code)
 - [Tutorial 5 - Basic tutorial of hls4ml with MNIST dataset](tutorials/실험5%20Basic%20tutorial%20of%20hls4ml%20with%20MNIST%20dataset.pdf)
   - [code]()
 - [Tutorial 6 - Advanced features in hls4ml with MNIST dataset](tutorials/실험6%20Advanced%20features%20in%20hls4ml%20with%20MNIST%20dataset.pdf)

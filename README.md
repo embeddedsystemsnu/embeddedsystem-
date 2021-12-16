@@ -18,7 +18,7 @@
   - [code](CKKS_Introduction.ipynb)
   - [code](CKKS_Entropy.ipynb)
 - [Tutorial 8 - Encrypted Convolution on MNIST with CKKS Homomorphic](tutorials/실험8%20Encrypted%20Convolution%20on%20MNIST%20with%20CKKS%20Homomorphic%20.pdf)
-  - [code]()
+  - [code](CKKS_MNIST_Ex.ipynb)
 - [Tutorial 9 - Hls4ml quantization, bitstream generation and board test](tutorials/실험9%20hls4ml%20quantization%2C%20bitstream%20generation%20and%20board%20test.pdf)
   - [code]()
 - [Tutorial 10 - Hyper-parameter tuning for board implementation](tutorials/실험10%20Hyper-parameter%20tuning%20for%20board%20implementation.pdf)
